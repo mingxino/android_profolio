@@ -1,0 +1,12 @@
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">My App Profolio</string>
+    <string name="nanodegree_app">Nanodegree App</string>
+    <string name="popular_movies">popular movies</string>
+    <string name="stock_hawk">stock hawk</string>
+    <string name="build_it_bigger">build it bigger</string>
+    <string name="material">make your app material</string>
+    <string name="go_ubiquitous">go ubiquitous</string>
+    <string name="capstone">capstone</string>
+    <string name="format_app">This button will launch my <xliff:g id="temp">%s</xliff:g> app</string>
+
+</resources>
